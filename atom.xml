@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[MacBury Blog]]></title>
   <link href="http://macbury.github.com/blog/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
-  <updated>2013-03-28T14:43:08+01:00</updated>
+  <updated>2013-03-28T15:00:10+01:00</updated>
   <id>http://macbury.github.com/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Arkadiusz Buras]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://macbury.github.com/blog/blog/2013/03/28/hello-world/"/>
+    <updated>2013-03-28T14:52:00+01:00</updated>
+    <id>http://macbury.github.com/blog/blog/2013/03/28/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
