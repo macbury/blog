@@ -4,11 +4,11 @@
   <title><![CDATA[MacBury Blog]]></title>
   <link href="http://macbury.github.com/blog/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
-  <updated>2013-03-28T15:00:10+01:00</updated>
+  <updated>2013-03-28T15:10:10+01:00</updated>
   <id>http://macbury.github.com/blog/</id>
   <author>
     <name><![CDATA[Arkadiusz Buras]]></name>
-    
+    <email><![CDATA[macbury@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
@@ -18,7 +18,7 @@
     <link href="http://macbury.github.com/blog/blog/2013/03/28/hello-world/"/>
     <updated>2013-03-28T14:52:00+01:00</updated>
     <id>http://macbury.github.com/blog/blog/2013/03/28/hello-world</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Znowu reaktywowałem bloga. Może teraz przez to że jest hostowany na github.com przeżyje on trochę dłużej niż wcześniejsze wersje :P</p>
 ]]></content>
   </entry>
   
