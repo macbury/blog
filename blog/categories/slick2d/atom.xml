@@ -4,7 +4,7 @@
   <title><![CDATA[Category: slick2d | MacBury Blog]]></title>
   <link href="http://macbury.github.com/blog/blog/categories/slick2d/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
-  <updated>2013-03-29T10:32:07+01:00</updated>
+  <updated>2013-03-29T10:38:00+01:00</updated>
   <id>http://macbury.github.com/blog/</id>
   <author>
     <name><![CDATA[Arkadiusz Buras]]></name>
@@ -20,7 +20,8 @@
     <id>http://macbury.github.com/blog/blog/2013/03/29/robie-slash-gram-gre</id>
     <content type="html"><![CDATA[<p>Ot taki prosty projekt dla zabicia nudnych wieczorów:</p>
 
-<p>http://www.youtube.com/watch?v=hAIQaa7cxiM</p>
+<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/hAIQaa7cxiM" frameborder="0" allowfullscreen></iframe>
+
 
 <p>Co zostało jeszcze do zrobienia:</p>
 
