@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mongodb | MacBury Blog]]></title>
+  <link href="http://macbury.github.com/blog/blog/categories/mongodb/atom.xml" rel="self"/>
+  <link href="http://macbury.github.com/blog/"/>
+  <updated>2013-03-29T10:48:39+01:00</updated>
+  <id>http://macbury.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Arkadiusz Buras]]></name>
+    <email><![CDATA[macbury@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Moped/Mongoid 3 Instrumentation for Rails 3]]></title>
+    <link href="http://macbury.github.com/blog/blog/2013/03/29/moped-slash-mongoid-3-instrumentation-for-rails-3/"/>
+    <updated>2013-03-29T10:44:00+01:00</updated>
+    <id>http://macbury.github.com/blog/blog/2013/03/29/moped-slash-mongoid-3-instrumentation-for-rails-3</id>
+    <content type="html"><![CDATA[<p>In rails you have a lot great information in logs: db query time, view render time etc. But if you use mongoid 3+ you can see only query time for each requests but not for all db requests that been made in action. That is why i made this simple gist:</p>
+
+<p><div><script src='https://gist.github.com/4977399.js'></script>
+<noscript><pre><code></code></pre></noscript></div>
+</p>
+
+<p>Or you can use this <a href="https://rubygems.org/gems/mongoid-rails-instrumentation">gem</a></p>
+]]></content>
+  </entry>
+  
+</feed>
