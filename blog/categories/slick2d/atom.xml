@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[MacBury Blog]]></title>
-  <link href="http://macbury.github.com/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: slick2d | MacBury Blog]]></title>
+  <link href="http://macbury.github.com/blog/blog/categories/slick2d/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
   <updated>2013-03-29T10:32:07+01:00</updated>
   <id>http://macbury.github.com/blog/</id>
@@ -39,15 +39,6 @@
 <li>slick2d</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://macbury.github.com/blog/blog/2013/03/28/hello-world/"/>
-    <updated>2013-03-28T14:52:00+01:00</updated>
-    <id>http://macbury.github.com/blog/blog/2013/03/28/hello-world</id>
-    <content type="html"><![CDATA[<p>Znowu reaktywowałem bloga. Może teraz przez to że jest hostowany na github.com przeżyje on trochę dłużej niż wcześniejsze wersje :P</p>
 ]]></content>
   </entry>
   
