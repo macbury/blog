@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: java, | MacBury Blog]]></title>
-  <link href="http://macbury.github.com/blog/blog/categories/java/atom.xml" rel="self"/>
+  <title><![CDATA[Category: play | MacBury Blog]]></title>
+  <link href="http://macbury.github.com/blog/blog/categories/play/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
   <updated>2013-04-02T09:01:58+02:00</updated>
   <id>http://macbury.github.com/blog/</id>
@@ -29,36 +29,6 @@
 <img src="http://macbury.github.com/blog/blog/images/blog/booklet/2.jpg" />
 <img src="http://macbury.github.com/blog/blog/images/blog/booklet/3.jpg" />
 <img src="http://macbury.github.com/blog/blog/images/blog/booklet/4.jpg" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Robię/Gram gre]]></title>
-    <link href="http://macbury.github.com/blog/blog/2013/03/29/robie-slash-gram-gre/"/>
-    <updated>2013-03-29T10:05:00+01:00</updated>
-    <id>http://macbury.github.com/blog/blog/2013/03/29/robie-slash-gram-gre</id>
-    <content type="html"><![CDATA[<p>Ot taki prosty projekt dla zabicia nudnych wieczorów:</p>
-
-<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/hAIQaa7cxiM" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Co zostało jeszcze do zrobienia:</p>
-
-<ul>
-<li>Dynamiczny generowana mapa</li>
-<li>Stworki</li>
-<li>Bronie</li>
-</ul>
-
-
-<p>Do stworzenia całej gry wykorzytuję:</p>
-
-<ul>
-<li>java</li>
-<li>eclipse</li>
-<li>slick2d</li>
-</ul>
-
 ]]></content>
   </entry>
   

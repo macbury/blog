@@ -4,7 +4,7 @@
   <title><![CDATA[MacBury Blog]]></title>
   <link href="http://macbury.github.com/blog/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
-  <updated>2013-03-29T10:48:39+01:00</updated>
+  <updated>2013-04-02T09:01:58+02:00</updated>
   <id>http://macbury.github.com/blog/</id>
   <author>
     <name><![CDATA[Arkadiusz Buras]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Moja pierwsza aplikacja już w Google Play]]></title>
+    <link href="http://macbury.github.com/blog/blog/2013/04/02/moja-pierwsza-aplikacja-juz-w-google-play/"/>
+    <updated>2013-04-02T08:54:00+02:00</updated>
+    <id>http://macbury.github.com/blog/blog/2013/04/02/moja-pierwsza-aplikacja-juz-w-google-play</id>
+    <content type="html"><![CDATA[<p>Umożliwia ona na zapisywanie stron internetowych do póżniejszego czytania w trybie offline. Stworzona została głównie z myślą o Nexus 7.</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.macbury.booklet">Przejdź do Google Play i zainstaluj</a></p>
+
+<!-- more -->
+
+
+<p><img src="http://macbury.github.com/blog/blog/images/blog/booklet/1.jpg" />
+<img src="http://macbury.github.com/blog/blog/images/blog/booklet/2.jpg" />
+<img src="http://macbury.github.com/blog/blog/images/blog/booklet/3.jpg" />
+<img src="http://macbury.github.com/blog/blog/images/blog/booklet/4.jpg" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Moped/Mongoid 3 Instrumentation for Rails 3]]></title>
