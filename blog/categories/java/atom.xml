@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java, | MacBury Blog]]></title>
   <link href="http://macbury.github.com/blog/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
-  <updated>2013-04-02T09:04:42+02:00</updated>
+  <updated>2013-06-02T14:08:49+02:00</updated>
   <id>http://macbury.github.com/blog/</id>
   <author>
     <name><![CDATA[Arkadiusz Buras]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nowa gra, zmiana silnika]]></title>
+    <link href="http://macbury.github.com/blog/blog/2013/06/02/nowa-gra-zmiana-silnika/"/>
+    <updated>2013-06-02T13:56:00+02:00</updated>
+    <id>http://macbury.github.com/blog/blog/2013/06/02/nowa-gra-zmiana-silnika</id>
+    <content type="html"><![CDATA[<p>Postanowiłem umieścić kod źródłowy mojej gry na <a href="https://github.com/macbury/unamed">githubie</a>. Najprawdopodobnie nie będę już rozwijał tego projektu z powodu braku pomysłów.</p>
+
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/XuagFyXWnK0" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/VkRdu7IYosI" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Też postanowiłem rozpocząć nowy projekt z użyciem biblioteki <a href="http://libgdx.badlogicgames.com/">libgdx</a>. Jest ona bardziej multiplatformowa, no i prężnie się rozwija.</p>
+
+<p>Narazie udało mi się stworzyć prostą kontrolkę do wyświetlania tekstu z podświetlaną składnią:</p>
+
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/0JXja49rXGg" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Moja pierwsza aplikacja już w Google Play]]></title>
