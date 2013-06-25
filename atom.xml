@@ -4,7 +4,7 @@
   <title><![CDATA[MacBury Blog]]></title>
   <link href="http://macbury.github.com/blog/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
-  <updated>2013-06-02T14:08:49+02:00</updated>
+  <updated>2013-06-25T09:38:12+02:00</updated>
   <id>http://macbury.github.com/blog/</id>
   <author>
     <name><![CDATA[Arkadiusz Buras]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kontestplayer dla androida]]></title>
+    <link href="http://macbury.github.com/blog/blog/2013/06/25/kontestplayer-dla-androida/"/>
+    <updated>2013-06-25T09:29:00+02:00</updated>
+    <id>http://macbury.github.com/blog/blog/2013/06/25/kontestplayer-dla-androida</id>
+    <content type="html"><![CDATA[<p>Właśnie dodałem do Google Play pierwszą wersję <a href="https://play.google.com/store/apps/details?id=com.macbury.kontestplayer">KontestPlayera</a>. Jest to aplikacja która umożliwia słuchanie audycji z radia internetowego <a href="http://kontestacja.com">Kontestacja</a>.</p>
+
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/CrwSL1Zlet4" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Kod aplikacji jest udostępniony na licencji MIT:
+<a href="https://github.com/macbury/KontestPlayer">https://github.com/macbury/KontestPlayer</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nowa gra, zmiana silnika]]></title>

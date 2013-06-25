@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: android, | MacBury Blog]]></title>
+  <title><![CDATA[Category: android | MacBury Blog]]></title>
   <link href="http://macbury.github.com/blog/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://macbury.github.com/blog/"/>
-  <updated>2013-06-02T14:08:49+02:00</updated>
+  <updated>2013-06-25T09:38:12+02:00</updated>
   <id>http://macbury.github.com/blog/</id>
   <author>
     <name><![CDATA[Arkadiusz Buras]]></name>
@@ -14,21 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Moja pierwsza aplikacja już w Google Play]]></title>
-    <link href="http://macbury.github.com/blog/blog/2013/04/02/moja-pierwsza-aplikacja-juz-w-google-play/"/>
-    <updated>2013-04-02T08:54:00+02:00</updated>
-    <id>http://macbury.github.com/blog/blog/2013/04/02/moja-pierwsza-aplikacja-juz-w-google-play</id>
-    <content type="html"><![CDATA[<p>Umożliwia ona na zapisywanie stron internetowych do póżniejszego czytania w trybie offline. Stworzona została głównie z myślą o Nexus 7.</p>
+    <title type="html"><![CDATA[Kontestplayer dla androida]]></title>
+    <link href="http://macbury.github.com/blog/blog/2013/06/25/kontestplayer-dla-androida/"/>
+    <updated>2013-06-25T09:29:00+02:00</updated>
+    <id>http://macbury.github.com/blog/blog/2013/06/25/kontestplayer-dla-androida</id>
+    <content type="html"><![CDATA[<p>Właśnie dodałem do Google Play pierwszą wersję <a href="https://play.google.com/store/apps/details?id=com.macbury.kontestplayer">KontestPlayera</a>. Jest to aplikacja która umożliwia słuchanie audycji z radia internetowego <a href="http://kontestacja.com">Kontestacja</a>.</p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.macbury.booklet">Przejdź do Google Play i zainstaluj</a></p>
-
-<!-- more -->
+<iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/CrwSL1Zlet4" frameborder="0" allowfullscreen></iframe>
 
 
-<p><img src="http://macbury.github.com/blog/images/blog/booklet/1.jpg" />
-<img src="http://macbury.github.com/blog/images/blog/booklet/2.jpg" />
-<img src="http://macbury.github.com/blog/images/blog/booklet/3.jpg" />
-<img src="http://macbury.github.com/blog/images/blog/booklet/4.jpg" /></p>
+<p>Kod aplikacji jest udostępniony na licencji MIT:
+<a href="https://github.com/macbury/KontestPlayer">https://github.com/macbury/KontestPlayer</a></p>
 ]]></content>
   </entry>
   
